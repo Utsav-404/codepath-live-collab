@@ -1,9 +1,9 @@
 # ✨ CodePath Live Collab
 
-![Stars](https://img.shields.io/github/stars/Utsav_404/codepath-live-collab?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Utsav_404/codepath-live-collab?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Utsav_404/codepath-live-collab?style=for-the-badge)
-![License](https://img.shields.io/github/license/Utsav_404/codepath-live-collab?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Utsav%5F404/codepath-live-collab?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Utsav%5F404/codepath-live-collab?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Utsav%5F404/codepath-live-collab?style=for-the-badge)
+![License](https://img.shields.io/github/license/Utsav%5F404/codepath-live-collab?style=for-the-badge)
 
 > 🚀 Share local project globally + real-time collaborative editing.
 
